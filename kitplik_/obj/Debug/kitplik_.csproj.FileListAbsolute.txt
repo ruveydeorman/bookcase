@@ -1,0 +1,7 @@
+C:\Users\Rüveyde\source\repos\kitplik_\kitplik_\bin\Debug\kitplik_.exe.config
+C:\Users\Rüveyde\source\repos\kitplik_\kitplik_\bin\Debug\kitplik_.exe
+C:\Users\Rüveyde\source\repos\kitplik_\kitplik_\bin\Debug\kitplik_.pdb
+C:\Users\Rüveyde\source\repos\kitplik_\kitplik_\obj\Debug\kitplik_.csproj.AssemblyReference.cache
+C:\Users\Rüveyde\source\repos\kitplik_\kitplik_\obj\Debug\kitplik_.csproj.CoreCompileInputs.cache
+C:\Users\Rüveyde\source\repos\kitplik_\kitplik_\obj\Debug\kitplik_.exe
+C:\Users\Rüveyde\source\repos\kitplik_\kitplik_\obj\Debug\kitplik_.pdb
